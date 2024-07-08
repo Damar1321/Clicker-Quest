@@ -44,6 +44,7 @@
   ],
   "S": [
     "Elder Dragon",
+    "Ancient Dragon",
     "Archdemon",
     "Leviathan",
     "Ancient Lich",
@@ -51,16 +52,23 @@
     "Tarrasque"
   ],
   "SS": [
-    "Ancient Dragon",
+    "Elder Shapeshifter",
+    "Celestial Guardian",
     "Demon Lord",
-    "Archlich",
-    "Leviathan",
-    "Tarrasque"
+    "Ancient Leviathan",
+    "Celestial Warden"
   ],
   "Warrior": [
-    "Elder Dragon",
-    "Great Old One",
-    "Celestial Being",
-    "Primordial Entity"
+    "Slime",
+    "Bandit",
+    "Skeleton",
+    "Goblin",
+    "Kobold",
+    "Rat",
+    "Bat",
+    "Orc",
+    "Wolf",
+    "Zombie",
+    "Ghoul"
   ]
 }
