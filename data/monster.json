@@ -1,54 +1,54 @@
 {
-  "Rank F": [
+  "F": [
     "Goblin",
     "Kobold",
     "Skeleton",
     "Imp",
     "Slime"
   ],
-  "Rank E": [
+  "E": [
     "Orc",
     "Gnoll",
     "Zombie",
     "Giant Rat",
     "Giant Spider"
   ],
-  "Rank D": [
+  "D": [
     "Hobgoblin",
     "Harpy",
     "Wight",
     "Shadow",
     "Wraith"
   ],
-  "Rank C": [
+  "C": [
     "Troll",
     "Ogre",
     "Minotaur",
     "Basilisk",
     "Wyvern"
   ],
-  "Rank B": [
+  "B": [
     "Chimera",
     "Hydra",
     "Griffon",
     "Cyclops",
     "Manticore"
   ],
-  "Rank A": [
+  "A": [
     "Dragon (adult)",
     "Beholder",
     "Lich",
     "Balrog",
     "Kraken"
   ],
-  "Rank S": [
+  "S": [
     "Ancient Dragon",
     "Demon Lord",
     "Archlich",
     "Leviathan",
     "Tarrasque"
   ],
-  "Rank SS": [
+  "SS": [
     "Elder Dragon",
     "Great Old One",
     "Celestial Being",
