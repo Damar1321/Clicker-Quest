@@ -18,10 +18,12 @@
   ],
   "C": [
     "Hobgoblin",
-    "",
+    "Ogre",
     "Troll",
-    "",
-    "Wraith"
+    "Minotaur",
+    "Wraith",
+    "Harpy",
+    "Dire Wolf"
   ],
   "B": [
     "Troll",
