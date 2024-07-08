@@ -1,5 +1,5 @@
 {
-  "F": [
+  "E": [
     "Goblin",
     "Kobold",
     "Skeleton",
@@ -7,49 +7,49 @@
     "Bat",
     "Slime"
   ],
-  "E": [
+  "D": [
     "Orc",
-    "Gnoll",
+    "Wolf",
     "Zombie",
     "Giant Rat",
     "Giant Spider"
   ],
-  "D": [
+  "C": [
     "Hobgoblin",
     "Harpy",
     "Wight",
     "Shadow",
     "Wraith"
   ],
-  "C": [
+  "B": [
     "Troll",
     "Ogre",
     "Minotaur",
     "Basilisk",
     "Wyvern"
   ],
-  "B": [
+  "A": [
     "Chimera",
     "Hydra",
     "Griffon",
     "Cyclops",
     "Manticore"
   ],
-  "A": [
+  "S": [
     "Dragon (adult)",
     "Beholder",
     "Lich",
     "Balrog",
     "Kraken"
   ],
-  "S": [
+  "SS": [
     "Ancient Dragon",
     "Demon Lord",
     "Archlich",
     "Leviathan",
     "Tarrasque"
   ],
-  "SS": [
+  "Warrior": [
     "Elder Dragon",
     "Great Old One",
     "Celestial Being",
