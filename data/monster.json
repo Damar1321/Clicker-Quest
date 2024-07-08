@@ -9,16 +9,18 @@
   ],
   "D": [
     "Orc",
+    "Bandit",
     "Wolf",
     "Zombie",
     "Giant Rat",
-    "Giant Spider"
+    "Giant Spider",
+    "Ghoul"
   ],
   "C": [
     "Hobgoblin",
-    "Harpy",
-    "Wight",
-    "Shadow",
+    "",
+    "Troll",
+    "",
     "Wraith"
   ],
   "B": [
